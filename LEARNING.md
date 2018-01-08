@@ -5,7 +5,7 @@ Everything I recommend below is free to the public!
 [Here](https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit) is a community-run learning resource for preparing for Udacity's Deep Learning Foundations Nanodegree.  It includes a link to all of the projects for the DLFND, plus a ton of other links to learning resources students have found helpful.
 
 Some notable links from that spreadsheet:
-- [Machine Learning from Coursera](https://www.coursera.org/learn/machine-learning).  Andrew Ng's classic introduction to machine learning modeled after the course he built while at Stanford.  This course helped establish the MOOC model as a legitimate educational resource.<sup>[1](#footnote1)</sup>
+- [Machine Learning from Coursera](https://www.coursera.org/learn/machine-learning).  Andrew Ng's classic introduction to machine learning modeled after the course he designed while at Stanford.  This course helped establish the MOOC model as a legitimate educational resource.<sup>[1](#footnote1)</sup>
 - [cs231n](https://cs231n.github.io).  A course from Stanford developed by Andrej Karpathy introducing students to deep learning through computer vision.
 - [cs224n](http://web.stanford.edu/class/cs224n/).  Similar to cs231n, but focuses on natural language processing.  Designed by Chris Manning and Richard Socher.
 - [Machine Learning at Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/).  An introduction designed by Nando de Freitas that provides clear explanations of many concepts in deep learning.  It's a bit old, but it's a classic.  Note: the assignments use the Lua version of Torch, which is no longer under active development.  Use [PyTorch](http://pytorch.org) instead!
