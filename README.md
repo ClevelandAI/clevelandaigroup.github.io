@@ -9,9 +9,9 @@ Future Meetups and discussion can be found on the [Meetup Page](https://www.meet
 Slides from each CAIG talk can be found in the corresponding date's folder.
 
 Recent Dates:
--[October 11, 2017](https://github.com/jvmancuso/CAIG/blob/master/2017-10-11)
--[November 8, 2017](https://github.com/jvmancuso/CAIG/blob/master/2017-11-08)
--[January 11, 2017](https://github.com/jvmancuso/CAIG/blob/master/2018-01-11)
+- [October 11, 2017](https://github.com/jvmancuso/CAIG/blob/master/2017-10-11)
+- [November 8, 2017](https://github.com/jvmancuso/CAIG/blob/master/2017-11-08)
+- [January 11, 2017](https://github.com/jvmancuso/CAIG/blob/master/2018-01-11)
 
 # Video Resources
 
