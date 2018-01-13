@@ -1,3 +1,7 @@
+---
+layout: home
+title: Cleveland Artificial Intelligence Group
+---
 Cleveland Artificial Intelligence Group
 ============
 Welcome to the materials page for the Cleveland Artificial Intelligence Group
