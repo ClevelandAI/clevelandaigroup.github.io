@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Cleveland Artificial Intelligence Group
 ---
 Cleveland Artificial Intelligence Group
