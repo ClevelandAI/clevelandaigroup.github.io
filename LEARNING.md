@@ -1,3 +1,7 @@
+---
+layout: page
+title: Learning
+---
 Learning Resources
 =========================
 Everything I recommend below is free to the public!
