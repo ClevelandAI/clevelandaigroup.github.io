@@ -2,8 +2,7 @@
 layout: page
 title: Cleveland Artificial Intelligence Group
 ---
-Cleveland Artificial Intelligence Group
-============
+
 Welcome to the materials page for the Cleveland Artificial Intelligence Group
 
 Future Meetups and discussion can be found on the [Meetup Page](https://www.meetup.com/Cleveland-Artificial-Intelligence-Group)
