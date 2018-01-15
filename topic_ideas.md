@@ -1,5 +1,8 @@
-Topics!
-========
+---
+layout: page
+title: Topics!
+---
+
 This document is for us to keep track of future topics we'd like to see presented at CAIG.
 
 If you have an idea for a talk, please add it to the bottom of this list in the same format as the others.  If you'd like to give a talk on one of these topics, please edit the line to check the box, and then add the date you on which you checked the box and your name.  If you'd like to present on a different topic, feel free to add it to the list and fill in those details simultaneously.  Once the talk has been given, I'll move it to the Completed section and change its date to the presentation date.
