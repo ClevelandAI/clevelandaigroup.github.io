@@ -16,6 +16,7 @@ If you have an idea for a talk, please add it to the bottom of this list in the 
 - [x] Deep Reinforcement Learning at NIPS 2017 (1/11/18, Jason Mancuso)
 
 **Open**
+- [ ] AI Enterprise Adoption
 - [ ] Women in AI
 - [ ] AI and the Blockchain
 - [ ] History of AI
