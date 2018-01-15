@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Learning
+title: Learning Resources
 ---
-Learning Resources
-=========================
+
 Everything I recommend below is free to the public!
 
 [Here](https://docs.google.com/spreadsheets/d/1NZtIxDWiJ_B0UKhIDUk-wTZAT3Fxfh-fGwcQKXg1bQU/edit) is a community-run learning resource for preparing for Udacity's Deep Learning Foundations Nanodegree.  It includes a link to all of the projects for the DLFND, plus a ton of other links to learning resources students have found helpful.
