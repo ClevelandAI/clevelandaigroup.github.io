@@ -3,7 +3,7 @@ layout: page
 title: Cleveland Artificial Intelligence Group
 ---
 
-Welcome to the materials page for the Cleveland Artificial Intelligence Group
+Welcome to the materials page for the Cleveland Artificial Intelligence Group!
 
 Future Meetups and discussion can be found on the [Meetup Page](https://www.meetup.com/Cleveland-Artificial-Intelligence-Group)
 
@@ -14,7 +14,7 @@ Slides from each CAIG talk can be found in the corresponding date's folder.
 Recent Dates:
 - [October 11, 2017](https://github.com/jvmancuso/CAIG/blob/master/2017-10-11)
 - [November 8, 2017](https://github.com/jvmancuso/CAIG/blob/master/2017-11-08)
-- [January 11, 2017](https://github.com/jvmancuso/CAIG/blob/master/2018-01-11)
+- [January 11, 2018](https://github.com/jvmancuso/CAIG/blob/master/2018-01-11)
 
 # Video Resources
 
@@ -22,4 +22,4 @@ Video recordings of each talk can be found [on Youtube](https://www.youtube.com/
 
 # Learning Resources
 
-Learning resources can be found in [LEARNING.md](https://github.com/jvmancuso/CAIG/blob/master/LEARNING.md).
+Learning resources can be found [here](https://clevelandaigroup.github.io/LEARNING.html).
