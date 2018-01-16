@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AQ: Pretrained Models
+title: AQ Pretrained Models
 ---
 
 For posts titled "AQ", I'll be answering questions I receive through the group and posting my responses as writeups on the site in case other people might find them useful.  They'll always be anonymized, unless someone requests to be recognized.  Hope you all find this useful!
