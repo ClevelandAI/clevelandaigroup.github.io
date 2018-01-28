@@ -9,7 +9,7 @@ Future events and discussion can be found on the [Meetup page](https://www.meetu
 
 Topics include classical AI, deep learning, natural language processing, computer vision, speech recognition, and reinforcement learning.
 
-If you have an interest in presenting, have a topic you would like to see presented, or would like to host a future meeting, contact Jason or file an issue on our Github repo (https://github.com/ClevelandAIGroup/clevelandaigroup.github.io).
+If you have an interest in presenting, have a topic you would like to see presented, or would like to host a future meeting, contact Jason or file an issue on our [Github repo](https://github.com/ClevelandAIGroup/clevelandaigroup.github.io).
 
 # Slides
 
