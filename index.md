@@ -16,9 +16,10 @@ If you have an interest in presenting, have a topic you would like to see presen
 Slides from each CAIG talk can be found in the corresponding date's folder.
 
 Recent Dates:
-- [October 11, 2017](https://github.com/jvmancuso/CAIG/blob/master/2017-10-11)
-- [November 8, 2017](https://github.com/jvmancuso/CAIG/blob/master/2017-11-08)
-- [January 11, 2018](https://github.com/jvmancuso/CAIG/blob/master/2018-01-11)
+- [February 15, 2018](https://github.com/ClevelandAIGroup/clevelandaigroup.github.io/tree/master/2018-02-15)
+- [January 11, 2018](https://github.com/ClevelandAIGroup/clevelandaigroup.github.io/tree/master/2018-01-11)
+- [November 8, 2017](https://github.com/ClevelandAIGroup/clevelandaigroup.github.io/tree/master/2017-11-08)
+- [October 11, 2017](https://github.com/ClevelandAIGroup/clevelandaigroup.github.io/tree/master/2017-10-11)
 
 # Video Resources
 
