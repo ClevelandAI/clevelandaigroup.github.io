@@ -17,9 +17,9 @@ If you have an idea for a talk, please add it to the bottom of this list in the 
 - [x] Intro to Natural Language Processing (1/11/18, Sumit Sengupta)
 - [x] Deep Learning  for Natural Language Processing (1/11/18, Andrew Plassard)
 - [x] Deep Reinforcement Learning at NIPS 2017 (1/11/18, Jason Mancuso)
-- [x] What is a neural network? (1/23/18, Billy Barbaro)
-- [x] AI Enterprise Adoption (1/15/18, Ari Terjanian)
-- [x] OpenMined (1/23/18, Bobby Wagner)
+- [x] What is a neural network? (2/11/18, Billy Barbaro)
+- [x] AI Enterprise Adoption (2/11/18, Ari Terjanian)
+- [x] OpenMined (2/11/18, Bobby Wagner)
 
 **Open**
 - [ ] Women in AI
